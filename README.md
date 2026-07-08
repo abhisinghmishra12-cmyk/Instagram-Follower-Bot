@@ -1,4 +1,4 @@
-# Instagram Follower Bot
+# Insta Follower Bot
 
 This project is a Python script that utilizes Selenium, a web automation tool, to automate the process of logging into Instagram, finding followers of a specified account, and automatically following them.
 
